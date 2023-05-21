@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikAndresFelea
 - 👀 I’m interested in software development
-- 🌱 I’m currently finishing my final degree project
+- 🌱 I just graduated and
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me: erikandresfelea@gmail.com
 
